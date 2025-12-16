@@ -1,4 +1,4 @@
-baseURL = 'https://kazutamu.com/'
+baseURL = 'https://www.kazutamu.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
