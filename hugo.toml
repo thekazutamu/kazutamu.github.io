@@ -1,6 +1,6 @@
 baseURL = 'https://www.kazutamu.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'KAZUTAMU'
 theme = 'PaperMod'
 [caches]
   [caches.images]
