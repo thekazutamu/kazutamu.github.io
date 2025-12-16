@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'KAZUTAMU'
 theme = 'PaperMod'
 sectionPagesMenu = 'main'
+[params.footer]
+  text = '[免責事項](/disclaimer/)'
