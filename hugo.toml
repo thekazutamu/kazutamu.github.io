@@ -18,7 +18,6 @@ imageTitle = "kazutamu"
 imageWidth = 160
 imageHeight = 160
 
-
 [params.footer]
   text = '[免責事項](/disclaimer/)'
 
