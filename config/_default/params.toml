@@ -2,7 +2,12 @@ enableSearch = true
 
 copyright = "© { year } kazutamu"
 
-mainSections = ["posts"]
+[params]
+  mainSections = ["posts"]
+
+[params.homepage]
+  showRecent = true
+  recentLimit = 5
 
 [footer]
 showThemeAttribution = false
