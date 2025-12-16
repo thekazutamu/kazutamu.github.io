@@ -2,7 +2,7 @@ enableSearch = true
 
 copyright = "© { year } kazutamu"
 
-mainsections = ["posts"]
+mainSections = ["posts"]
 
 [footer]
 showThemeAttribution = false
