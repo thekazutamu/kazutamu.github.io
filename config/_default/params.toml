@@ -8,6 +8,8 @@ copyright = "© { year } kazutamu"
 [params.homepage]
   showRecent = true
   recentLimit = 5
+  layout = "background"
+  homepageImage = "/images/kazutamu_001.JPG"
 
 [footer]
 showThemeAttribution = false
