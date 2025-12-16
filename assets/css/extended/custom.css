@@ -1,0 +1,12 @@
+/* タイトルとタグラインの距離を詰める */
+.home-info h1 {
+  margin-bottom: 0.25rem;
+}
+
+/* タグラインを少しだけ強調 */
+.home-info .entry-content {
+  margin-top: 0;
+  font-size: 0.95rem;
+  color: var(--secondary);
+  letter-spacing: 0.02em;
+}
