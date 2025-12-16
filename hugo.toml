@@ -2,6 +2,4 @@ baseURL = 'https://www.kazutamu.com/'
 languageCode = 'en-us'
 title = 'KAZUTAMU'
 theme = 'PaperMod'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+sectionPagesMenu = 'main'
