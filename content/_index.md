@@ -6,5 +6,5 @@ layout: "home"
 {{< figure src="/images/kazutamu_001.JPG" alt="kazutamu" >}}
 
 {{< lead >}}
-心躍るセキュリティ
+心躍る、セキュリティ
 {{< /lead >}}
