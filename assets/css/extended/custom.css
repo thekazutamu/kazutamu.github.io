@@ -1,12 +1,13 @@
-/* タイトルとタグラインの距離を詰める */
-.home-info h1 {
-  margin-bottom: 0.25rem;
+/* Home top image: full-width */
+.home figure {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  max-width: none;
 }
 
-/* タグラインを少しだけ強調 */
-.home-info .entry-content {
-  margin-top: 0;
-  font-size: 0.95rem;
-  color: var(--secondary);
-  letter-spacing: 0.02em;
+.home figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 0;
 }
