@@ -3,9 +3,8 @@ title: "KAZUTAMU"
 layout: "home"
 ---
 
-{{< hero background="/images/kazutamu_001.JPG" >}}
+{{< figure src="/images/kazutamu_001.JPG" alt="kazutamu" >}}
 
-# KAZUTAMU
+{{< lead >}}
 心躍るセキュリティ
-
-{{< /hero >}}
+{{< /lead >}}
