@@ -1,9 +1,11 @@
 enableSearch = true
 
-copyright = "© 2025 kazutamu"
+copyright = "© { year } kazutamu"
 
 [footer]
 showThemeAttribution = false
 
 [article]
 showTableOfContents = true
+showWordCount = false
+showReadingTime = false
