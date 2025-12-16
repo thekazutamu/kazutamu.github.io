@@ -1,6 +1,17 @@
 ---
 title: "免責事項"
 url: "/disclaimer/"
+layout: "page"
+showDate: false
+showAuthor: false
+showReadingTime: false
+showWordCount: false
+showTableOfContents: false
+showComments: false
+showEdit: false
+showLikes: false
+showRelated: false
+showPagination: false
 ---
 本サイトのセキュリティ関連コンテンツは、セキュリティ技術の理解促進と学習を目的としたものです。
 記事の内容は、安全な環境での検証を前提としており、実システムへの適用は想定しておりません。
