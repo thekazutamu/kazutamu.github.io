@@ -3,7 +3,14 @@ languageCode = 'en-us'
 title = 'KAZUTAMU'
 theme = 'PaperMod'
 sectionPagesMenu = 'main'
-[params.footer]
-  text = '[免責事項](/disclaimer/)'
+
 [params]
   mainSections = ["posts", "writeups"]
+
+[params.homeInfoParams]
+Title = "Kazutamu"
+Content = "心躍るセキュリティ"
+
+[params.footer]
+  text = '[免責事項](/disclaimer/)'
+
