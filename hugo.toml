@@ -5,3 +5,5 @@ theme = 'PaperMod'
 sectionPagesMenu = 'main'
 [params.footer]
   text = '[免責事項](/disclaimer/)'
+[params]
+  mainSections = ["posts", "writeups"]
