@@ -34,3 +34,4 @@ showThemeAttribution = false
   showWordCount = false
   showReadingTime = false
   showTaxonomies = true
+  showTableOfContents = true
