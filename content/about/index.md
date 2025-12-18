@@ -16,7 +16,7 @@ showPagination: false
 showHero: article.showHero
 heroStyle: background
 # 背景画像の位置（例: "right center" / "75% 50%"） — 100%以上でさらに右へ寄せられます（例: "110% 50%"）
-imagePosition: "110% 50%"
+background-position: "110% 50%"
 ---
 
 # whoami
