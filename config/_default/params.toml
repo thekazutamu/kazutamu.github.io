@@ -1,18 +1,27 @@
+# サイト設定: 基本的な表示・機能の有効/無効を制御します
+
+# サイト内検索を有効化するかどうか（true=有効）
 enableSearch = true
 
+# フッターに表示される著作権表記。"{ year }" はテンプレート側で現在年に置換されます
 copyright = "© { year } KAZUTAMU"
 
+# 画像最適化を無効にする（true にすると最適化を行わない）
 disableImageOptimization = true
 
+# 画像のズーム機能を無効にする（false でズーム有効）
 disableImageZoom = false
 
+# デフォルトの背景画像（相対パス、static または assets 配下を参照）
 defaultBackgroundImage = "img/kazutamu_001.JPG"
 
+# カラースキーム（テーマに定義された名前を使用）
 colorScheme = "Blowfish"
 
 
-
+# params セクション: テーマ固有の追加パラメータ
 [params]
+  # メインセクション（投稿一覧などで表示対象とするセクション）
   mainSections = ["posts"]
 
 [announcement]
@@ -20,18 +29,31 @@ colorScheme = "Blowfish"
   text = "🚧 サイト構築中です（一部コンテンツは順次公開予定）"
 
 
+# homepage セクション: ホームページのレイアウトや表示設定
 [homepage]
-  layout = "hero"
+  # ホームのレイアウトタイプ（例: "hero"）
+  layout = "background"
+  # 最近の投稿を表示するか
   showRecent = true
+  # 最近の投稿表示数
   recentLimit = 5
+  # ヒーロー背景にぼかしを入れるか（true/false）
   layoutBackgroundBlur = true
 
+# footer セクション: フッター表示の細部設定
 [footer]
+# テーマの帰属表記を表示するか（false = 非表示）
 showThemeAttribution = false
 
+# article セクション: 記事ページに関する表示設定
 [article]
+  # 投稿日を表示するか
   showDate = true
+  # 単語数を表示するか
   showWordCount = false
+  # 推定読み時間を表示するか
   showReadingTime = false
+  # タクソノミー（カテゴリ・タグ）を表示するか
   showTaxonomies = true
+  # 目次を表示するか
   showTableOfContents = true
