@@ -33,7 +33,7 @@ HackTheBoxのウォークスルーや、Linux/Windowsのハッキング技術に
 
 ## おすすめのツール
 
-### テキストエディタ
+### テキストエディタ 
 
 [Obsidian](https://obsidian.md/)
 
