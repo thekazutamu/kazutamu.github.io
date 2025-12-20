@@ -43,7 +43,6 @@ HackTheBoxのウォークスルーや、Linux/Windowsのハッキング技術に
 
 {{< video "output.mp4" >}}
 
-![obsidian](obsidian.gif)
 
 [Sublime Text](https://www.sublimetext.com/)
 
