@@ -1,12 +1,17 @@
 +++
 draft = false
 date = '2025-12-19T23:27:02+09:00'
-lastmod = '2025-12-19T23:27:02+09:00'
 title = 'HTB: Timelapse'
 tags = ['HackTheBox', 'Windows', 'EASY']
 +++
 
+## 概要
+>  **Machine:** [Timelapse](https://www.hackthebox.com/machines/timelapse)  
+>  **OS:** Windows  
+>  **Difficulty:** Easy
+
 ## ポートスキャン
+
 
 nmapでポートスキャンします。
 
