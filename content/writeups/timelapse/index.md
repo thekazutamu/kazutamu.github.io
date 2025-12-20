@@ -1,8 +1,8 @@
 +++
 draft = false
-date = '2025-12-19'
-lastmod = '2025-12-19'
-title = 'Timelapse'
+date = '2025-12-19T23:27:02+09:00'
+lastmod = '2025-12-19T23:27:02+09:00'
+title = 'HTB: Timelapse'
 tags = ['HackTheBox', 'EASY']
 +++
 

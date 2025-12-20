@@ -18,11 +18,9 @@ defaultBackgroundImage = "img/kazutamu_001.JPG"
 # カラースキーム（テーマに定義された名前を使用）
 colorScheme = "Blowfish"
 
+# メインセクション（投稿一覧などで表示対象とするセクション）
+mainSections = ["posts", "writeups"]
 
-# params セクション: テーマ固有の追加パラメータ
-[params]
-  # メインセクション（投稿一覧などで表示対象とするセクション）
-  mainSections = ["posts", "writeups"]
 
 [announcement]
   enable = true
@@ -35,8 +33,6 @@ colorScheme = "Blowfish"
   layout = "background"
   # 最近の投稿を表示するか
   showRecent = true
-  # 最近の投稿表示数
-  recentLimit = 5
   # ヒーロー背景にぼかしを入れるか（true/false）
   layoutBackgroundBlur = true
 
