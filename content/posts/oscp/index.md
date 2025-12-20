@@ -85,3 +85,5 @@ Kali Linuxのブラウザに登録していたブックマークをご紹介し�
 ## さいごに
 
 試験対策を通して[Try Harder](https://www.offsec.com/blog/what-it-means-to-try-harder/)の精神を身につけることができました。OffSec社の意図や目的がそこにあるとすれば、OSCPはその狙いに成功している試験だと感じています。
+
+{{< video "output.mp4" >}}
