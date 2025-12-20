@@ -1,11 +1,13 @@
-[[main]]
-name = "記事"
-pageRef = "/posts"
-weight = 10
 
 [[main]]
 name = "Writeup"
 pageRef = "/writeups"
+weight = 10
+
+
+[[main]]
+name = "記事"
+pageRef = "/posts"
 weight = 20
 
 [[main]]
