@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = '2025-12-20T23:50:02+09:00'
 title = 'セキュリティエンジニアのための英語'
 tags = ['英語']
