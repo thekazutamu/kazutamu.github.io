@@ -4,6 +4,7 @@ weight: 4
 description: "KAZUTAMUについて"
 layout: "page"
 showDate: false
+showDateUpdated: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
@@ -17,11 +18,12 @@ showHero: article.showHero
 heroStyle: background
 ---
 
-# whoami
-kazutamu | かずたむ
+## whoami
+kazutamu | かずたむ  
 
 日本在住。
 
-# whyami
 
-ワクワクするセキュリティを、あらゆる人に届ける。
+## whyami
+
+未定
