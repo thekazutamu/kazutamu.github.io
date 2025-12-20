@@ -10,9 +10,7 @@ tags = ['OSCP', '資格']
 
 試験の概要については、[OffSec公式サイト](https://www.offsec.com/courses/pen-200/)で最新の情報をご確認ください。
 
-<video autoplay loop muted playsinline>
-  <source src="output.mp4" type="video/mp4">
-</video>
+
 
 ## 合格までの道のり
 
