@@ -5,8 +5,10 @@ title = 'セキュリティエンジニアのための英語'
 tags = ['英語']
 +++
 
-## 日々の日課
+## 日課
 
 ### Podcast
 
 [CISO Series Podcast](https://cisoseries.com/category/podcast/ciso-series-podcast/)
+
+毎週火曜19時更新。40分番組。
