@@ -14,8 +14,6 @@ showRelated: false
 showPagination: false
 ---
 
-プライバシーポリシー
-
 1. アクセス解析ツールについて
 
 当サイトでは、サイトの利用状況を把握するために Google Analytics（GA4） を利用しています。
