@@ -9,3 +9,7 @@ body {
 .copy-button {
   visibility: visible;
 }
+
+pre {
+  padding-right: 8.0rem;
+}
