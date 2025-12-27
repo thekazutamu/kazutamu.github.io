@@ -13,7 +13,7 @@ tags = ['HackTheBox', 'Windows', 'Easy']
 ## ポートスキャン
 
 
-nmapでポートスキャンします。
+`nmap`でポートスキャンします。
 
 ```bash
 sudo nmap -sC -sV $RHOST
@@ -61,12 +61,28 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 136.55 seconds
 ```
 
+## SMB列挙
+
+`smbclient`でSMB共有を一覧化します。
+
 ```bash
 smbclient -N -L $RHOST
 ```
 
 > [!NOTE] メモ
-> smbclientの使い方は、[こちらの記事](/posts/pentest-tools/)にまとめています。
+> smbclientの使い方は、[こちらの記事](/posts/pentest-tools/smbclient.md)にまとめています。
 
+`Shares`と`SYSVOL`が見つかります。
 
 ![img](smbclient.png)
+
+`Shares`にアクセスします。
+
+```bash
+smbclient -N //$RHOST/Shares
+```
+
+`ls`コマンドで、`Dev`と`HelpDesk`ディレクトリが見つかります。
+
+`mget`コマンドで、ダウンロードします。`exit`コマンドで終了します。
+
