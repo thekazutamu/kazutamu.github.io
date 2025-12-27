@@ -21,7 +21,6 @@ sudo nmap -sC -sV $RHOST
 ![img](nmap.png)
 
 ```bash
-└─$ sudo nmap -sC -sV 10.129.41.184                                 
 [sudo] password for kali: 
 Starting Nmap 7.98 ( https://nmap.org ) at 2025-12-19 21:37 -0500
 Nmap scan report for 10.129.41.184
@@ -63,7 +62,7 @@ Nmap done: 1 IP address (1 host up) scanned in 136.55 seconds
 ```
 
 ```bash
-└─$ smbclient -N -L $RHOST
+smbclient -N -L $RHOST
 ```
 
 > [!NOTE] メモ
