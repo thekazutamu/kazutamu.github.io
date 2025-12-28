@@ -7,7 +7,7 @@ body {
 }
 
 .copy-button {
-  visibility: visible;
+  visibility: invisible;
 }
 
 pre {
