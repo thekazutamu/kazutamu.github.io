@@ -30,9 +30,6 @@ sudo nmap -sC -sV <RHOST>
 smbclient -N -L <RHOST>
 ```
 
-> [!NOTE] メモ
-> smbclientの使い方は、[こちらの記事](/posts/pentest-tools/smbclient.md)にまとめています。
-
 `Shares`と`SYSVOL`が見つかります。
 
 ![img](smbclient.png)
