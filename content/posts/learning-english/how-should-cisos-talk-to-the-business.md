@@ -12,8 +12,8 @@ tags = ['英語学習','ポッドキャスト','Defense in Depth']
 frame ( ~ as ... )
 : （~を...として）捉える、解釈する
 
-dig hills
+dig hills in
 : 拒絶する、受け入れない
 
 tangible
-: 現実の、物理的なc
+: 現実の、物理的な
