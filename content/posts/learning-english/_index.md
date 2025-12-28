@@ -3,13 +3,19 @@ draft = false
 date = '2025-12-20T23:50:02+09:00'
 title = 'セキュリティエンジニアのための英語'
 tags = ['英語学習']
+showTableOfContents = true
 +++
+
+## 対象読者
+- セキュリティ実務者
+- セキュリティ実務者と話す人
+- セキュリティ実務者の通訳をする人
 
 ## ポッドキャスト
 
 ### [CISO Series](https://cisoseries.com/)
 
-| 番組 | 更新頻度（日本時間） |  |
+| 番組名 | 更新頻度（日本時間） |  |
 |------|---------|---------|
 |[CISO Series Podcast](https://cisoseries.com/category/podcast/ciso-series-podcast/) | 毎週火曜19:00 |  |
 |[Defense in Depth](https://cisoseries.com/category/podcast/defense-in-depth/) | 毎週木曜19:00 |  |

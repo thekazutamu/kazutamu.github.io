@@ -19,7 +19,7 @@ defaultBackgroundImage = "img/kazutamu_001.JPG"
 colorScheme = "Blowfish"
 
 # メインセクション（投稿一覧などで表示対象とするセクション）
-mainSections = ["posts", "writeups"]
+mainSections = ["posts"]
 
 # コマンドコピー
 enableCodeCopy = true
