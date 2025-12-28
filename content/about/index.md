@@ -22,8 +22,3 @@ heroStyle: background
 kazutamu | かずたむ  
 
 日本在住。
-
-
-## whyami
-
-もっとワクワクするセキュリティへ。

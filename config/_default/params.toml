@@ -38,7 +38,7 @@ smartTOCHideUnfocusedChildren = true
   layoutBackgroundBlur = true
 
 [header]
-  #basic,fixed,fixed-fill,fixed-fill-blur
+  # オプション："basic","fixed","fixed-fill","fixed-fill-blur"
   layout = "fixed-fill-blur"
 
 
@@ -61,3 +61,4 @@ showThemeAttribution = false
   showTableOfContents = true
   showDateUpdated = true
   showBreadcrumbs = true
+  showRelatedContent = true
