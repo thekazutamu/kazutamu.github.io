@@ -39,7 +39,7 @@ smartTOCHideUnfocusedChildren = true
 
 [header]
   #basic,fixed,fixed-fill,fixed-fill-blur
-  layout = "fixed"
+  layout = "fixed-fill-blur"
 
 
 # footer セクション: フッター表示の細部設定
