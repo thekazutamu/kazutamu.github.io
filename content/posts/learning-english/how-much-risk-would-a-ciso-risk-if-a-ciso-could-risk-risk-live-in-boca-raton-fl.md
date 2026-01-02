@@ -11,12 +11,14 @@ tags = ['英語学習','ポッドキャスト','CISO Series Podcast']
 
 ## 気になった語句
 
-frame ( ~ as ... )
-: （~を...として）捉える、解釈する
+I won’t go into too many details here
+: 
 
+technology-agnostic
+: 
 
-dig hills in
-: 拒絶する、受け入れない
+push for
+: 
 
-tangible
-: 現実の、物理的な
+sits untouched
+: 
