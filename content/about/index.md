@@ -19,8 +19,10 @@ heroStyle: background
 ---
 
 ## whoami
-kazutamu 
+KAZUTAMU
+
+日本在住。 
 
 CISSP | OSCP | CEH | 英検1級 | TOEIC 980
 
-日本在住。 
+
