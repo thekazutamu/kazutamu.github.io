@@ -1,8 +1,20 @@
-+++
-date = '2026-01-02T23:14:28+09:00'
-draft = false
-title = '私が観た映画'
-+++
+---
+date: '2026-01-02T23:14:28+09:00'
+title: "私が観た映画"
+url: "/movies/"
+layout: "page"
+showDate: false
+showAuthor: false
+showReadingTime: false
+showWordCount: false
+showTableOfContents: false
+showComments: false
+showEdit: false
+showLikes: false
+showRelated: false
+showPagination: false
+---
+
 | タイトル | 公開年 | リンク |
 |------|---------|---------|
 | Tenet | 2020 | [IMDb](https://www.imdb.com/title/tt6723592/) ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/tenet)|
