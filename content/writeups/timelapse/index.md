@@ -10,13 +10,6 @@ tags = ['HackTheBox', 'Windows', 'Easy']
 >  **OS:** Windows  
 >  **Difficulty:** Easy
 
-{{< mermaid >}}
-graph LR;
-A[ポートスキャン]-->B[SMB列挙]
-B-->C[パスワード解析]
-C-->D[秘密鍵・公開鍵の抽出]
-D-->E[WinRM経由での接続]
-{{< /mermaid >}}
 
 ## ポートスキャン
 
@@ -73,6 +66,8 @@ smbclient -N //<RHOST>/Shares
 
 ## ZIPファイルのパスワード解析
 
+`Dev`フォルダ配下に`winrm_backup.zip`が見つかります。ZIPファイルを展開してみようとすると、パスワード入力が求められます。
+
 まずは、`zip2john`でパスワードハッシュを抽出します。
 
 ```bash
@@ -90,6 +85,9 @@ john --wordlist=/usr/share/wordlists/rockyou.txt htb/timelapse/winrm_backup.hash
 
 
 ## PFXファイルのパスワード解析
+
+`winrm_backup.zip`を展開すると、PFXファイルが見つかります。
+このPFXファイルもパスワードで保護されています。
 
 `pfx2john`でパスワードハッシュを抽出します。
 
