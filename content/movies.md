@@ -29,10 +29,10 @@ showPagination: false
 | Snowden | 2016 | [IMDb](https://www.imdb.com/title/tt3774114/) ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/snowden)|
 | The Karate Kid | 2010 | [IMDb](https://www.imdb.com/title/tt1155076/) ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/karate_kid_2010)|
 | The Matrix | 1999 | [IMDb](https://www.imdb.com/title/tt0133093/) ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/matrix)|
-| Joker | 2019 | [IMDb]() ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/joker_2019)|
-| The Thing | 2011 | [IMDb]() ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/the_thing_2011)|
-| Inception | 2010 | [IMDb]() ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/inception)|
-| Cinema Paradiso | 1988 | [IMDb]() ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/cinema_paradiso)|
+| Joker | 2019 | [IMDb](https://www.imdb.com/title/tt7286456/) ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/joker_2019)|
+| The Thing | 2011 | [IMDb](https://www.imdb.com/title/tt0905372) ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/the_thing_2011)|
+| Inception | 2010 | [IMDb](https://www.imdb.com/title/tt1375666/) ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/inception)|
+| Cinema Paradiso | 1988 | [IMDb](https://www.imdb.com/title/tt0095765/) ; [Rotten Tomatoes](https://www.rottentomatoes.com/m/cinema_paradiso)|
 
 
 <!--
