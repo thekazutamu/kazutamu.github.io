@@ -10,6 +10,9 @@ tags = ['英語学習','ポッドキャスト','Cybersecurity Headlines']
 
 {{< youtubeLite id="lhzIIjR5YII" label="Cybersecurity News: NYC Inauguration bans Flipper Zero, UK taxes crypto, Finland seizes ship" >}}
 
+
+## 気になった語句
+
 follow malicious instructions
 : 攻撃者の指示に従う
 
